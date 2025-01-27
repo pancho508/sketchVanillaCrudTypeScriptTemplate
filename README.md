@@ -1,0 +1,2 @@
+# sketchVanillaCrudTypeScriptTemplate
+sketchVanillaCrudTypeScriptTemplate
